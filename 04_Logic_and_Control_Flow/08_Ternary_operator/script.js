@@ -1,4 +1,4 @@
-const age = 17;
+const age = 22;
 
 // Using an if statement
 if (age >= 18) {
